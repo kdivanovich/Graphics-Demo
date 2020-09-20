@@ -14,8 +14,8 @@
 ##### K/L - toggle day/night shader
 ##### M/N - toggle toon shader on/off
 ##### F - first person camera
-##### T - third
-##### O - top down 
+##### T - third person camera
+##### O - top down camera
 ##### U - unocked camera (for debugging, but use it to look around the scenery)
 ##### Note: V/B - toggle UI, unimplemented
 
