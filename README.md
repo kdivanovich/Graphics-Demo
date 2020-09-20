@@ -20,10 +20,10 @@
 ##### Note: V/B - toggle UI, unimplemented
 
 
-## Screenshots:
-![1](/Screenshots/1.bmp)
+## Screenshots and GIFs:
+![1](/Screenshots/2.bmp)
 
-![2](/Screenshots/2.bmp)
+![2](/Screenshots/1.bmp)
 
 ![3](/Screenshots/3.bmp)
 
